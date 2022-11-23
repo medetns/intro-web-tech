@@ -31,3 +31,9 @@ img {
 	display: block;
 	margin: 0 auto;
 }
+
+.cosmonaut_img {
+	display: block;
+	margin: 0 auto;
+	border: 4px solid black;
+}
